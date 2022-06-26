@@ -1,0 +1,11 @@
+*.o
+*.res
+*.a
+lune_e.exe
+lune_r.exe
+lune_s.exe
+lune_s
+lune_e
+src/autogen/boot.c
+src/autogen/builder.c
+liblune.a

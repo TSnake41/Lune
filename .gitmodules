@@ -1,0 +1,19 @@
+[submodule "LuaJIT"]
+path = luajit
+url = https://github.com/LuaJIT/LuaJIT
+
+[submodule "raylib"]
+path = raylib
+url = https://github.com/raysan5/raylib
+
+[submodule "raygui"]
+path = raygui
+url = https://github.com/raysan5/raygui
+
+[submodule "physac"]
+path = physac
+url = https://github.com/raysan5/physac
+
+[submodule "examples/lynx"]
+path = examples/lynx
+url = https://gitlab.com/TSnake41/lynx

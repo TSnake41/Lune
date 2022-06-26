@@ -1,0 +1,4 @@
+-Iwren/src/include
+-Iinclude
+-Iraylib/src
+-DGRAPHICS_API_OPENGL_43
